@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+body{
+  background-color: gray;
+}
+
+.container h2{
+  margin-top: 60px;
+}
+label{
+  color: white;
+  margin-right: 13px;
+}
+input{
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 4px;
+}
+.wt{
+  margin-top: 10px;
+}
+.btn{
+  border-radius: 5px;
+  border: 2px solid black;
+  margin: 10px;
+  margin-top: 25px;
+  width: 70px;
+  height: 25px;
+  font-weight: 500;
+}
+.center p{
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic; 
+}
+.center img{
+  width: 300px ;
+  height: 300px;
+  border : 0px;
+}
